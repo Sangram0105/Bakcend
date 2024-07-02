@@ -1,0 +1,15 @@
+RESTful api is work on the server - client architecture
+
+RESTful APIs are a set of architectural principles and constraints used for designing networked applications.
+ They are based on the principles of Representational State Transfer (REST). 
+ RESTful APIs allow clients to interact with server resources using standard HTTP methods such as GET, POST, PUT, and DELETE.
+
+To implement a RESTful API, you can use a framework or library in your preferred programming language. 
+Some popular options include Express.js for Node.js, Django for Python, and Ruby on Rails for Ruby.
+
+When designing a RESTful API, it's important to follow best practices such as using meaningful resource URIs, 
+using appropriate HTTP status codes, and supporting content negotiation for different data formats.
+
+By implementing a RESTful API, you can create a scalable and interoperable system that can be easily consumed by different clients, 
+including web browsers, mobile apps, and other servers.
+

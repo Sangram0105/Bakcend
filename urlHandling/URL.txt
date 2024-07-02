@@ -1,0 +1,16 @@
+
+URL = uniform resource locator
+
+https//google.com/home/?.....
+
+https = it is the protocol used to comminicate with each other 
+google.com =domain name 
+            which is nothing but human readable form 
+            providers ip address
+            which is locating to the name 
+/home = path 
+
+/?... [quries parameters] = are the extra parameters that can be send to url
+
+
+
